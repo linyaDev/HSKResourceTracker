@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<RT_SettingsCategory>Трекер ресурсов</RT_SettingsCategory>
+	<RT_AddCategory>+ Добавить категорию</RT_AddCategory>
+	<RT_NewCategory>Новая категория</RT_NewCategory>
+	<RT_Edit>Изменить</RT_Edit>
+	<RT_Delete>Удалить</RT_Delete>
+	<RT_Back>← Назад</RT_Back>
+	<RT_Apply>Применить</RT_Apply>
+	<RT_CategoryName>Название:</RT_CategoryName>
+	<RT_ShortageMode>── Режим недостатка (свёрнутый) ──</RT_ShortageMode>
+	<RT_UseMinimum>Порог недостатка</RT_UseMinimum>
+	<RT_Minimum>Мин:</RT_Minimum>
+	<RT_StorageMode>── Режим склада (развёрнутый) ──</RT_StorageMode>
+	<RT_UseMinVisible>Скрывать если мало</RT_UseMinVisible>
+	<RT_MinVisible>Показывать от:</RT_MinVisible>
+	<RT_CurrentItems>Предметы в категории</RT_CurrentItems>
+	<RT_SearchAdd>Поиск и добавление:</RT_SearchAdd>
+	<RT_Remove>Убрать</RT_Remove>
+	<RT_Items>предм.</RT_Items>
+	<RT_WidgetTitle>Ресурсы</RT_WidgetTitle>
+	<RT_WidgetTooltip>Трекер ресурсов — нажмите на категорию для деталей</RT_WidgetTooltip>
+	<RT_DragHint>ПКМ + перетаскивание для перемещения</RT_DragHint>
+	<RT_HideReadout>Скрыть ванильный список ресурсов (левая панель)</RT_HideReadout>
+	<RT_ToggleWidget>Показать/скрыть виджет ресурсов</RT_ToggleWidget>
+	<RT_ToggleVisibility>Показать/скрыть категорию на виджете</RT_ToggleVisibility>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<RT_SettingsCategory>Resource Tracker</RT_SettingsCategory>
+	<RT_AddCategory>+ Add category</RT_AddCategory>
+	<RT_NewCategory>New category</RT_NewCategory>
+	<RT_Edit>Edit</RT_Edit>
+	<RT_Delete>Delete</RT_Delete>
+	<RT_Back>← Back</RT_Back>
+	<RT_Apply>Apply</RT_Apply>
+	<RT_CategoryName>Name:</RT_CategoryName>
+	<RT_ShortageMode>── Shortage mode (collapsed) ──</RT_ShortageMode>
+	<RT_UseMinimum>Shortage threshold</RT_UseMinimum>
+	<RT_Minimum>Min:</RT_Minimum>
+	<RT_StorageMode>── Storage mode (expanded) ──</RT_StorageMode>
+	<RT_UseMinVisible>Hide if below</RT_UseMinVisible>
+	<RT_MinVisible>Show from:</RT_MinVisible>
+	<RT_CurrentItems>Items in category</RT_CurrentItems>
+	<RT_SearchAdd>Search and add items:</RT_SearchAdd>
+	<RT_Remove>Remove</RT_Remove>
+	<RT_Items>items</RT_Items>
+	<RT_WidgetTitle>Resources</RT_WidgetTitle>
+	<RT_WidgetTooltip>Resource tracker — click a category for details</RT_WidgetTooltip>
+	<RT_DragHint>Right-click and drag to reposition</RT_DragHint>
+	<RT_HideReadout>Hide vanilla resource readout (left panel)</RT_HideReadout>
+	<RT_ToggleWidget>Toggle resource tracker widget</RT_ToggleWidget>
+	<RT_ToggleVisibility>Show/hide this category on the widget</RT_ToggleVisibility>
+</LanguageData>
